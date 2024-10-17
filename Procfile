@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True ToolBlue_GUI_Jupyter.ipynb
+web: voila --port=$PORT --no-browser ToolBlue_GUI_Jupyter.ipynb
