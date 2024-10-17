@@ -55,7 +55,7 @@ dash-core-components
 dash-html-components
 dash-table
 DateTime
-dbus-python
+dbus-python==1.2.16
 debugpy
 decorator
 defusedxml
